@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1db796aa2be3bda4c9b3221b64bfff67
+timeCreated: 1502653371
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - encodedDepthShader: {fileID: 4800000, guid: 37920868d1c5c2742a931c709f018c16,
+      type: 3}
+  - edgeDetectShader: {fileID: 4800000, guid: 60b5a12a97fcf6945af3f87dffd86102, type: 3}
+  - depthCapturingCamera: {instanceID: 0}
+  - edgeCombineShader: {fileID: 4800000, guid: 511abb2eb6715b24cbed418dfbb4d492, type: 3}
+  - normalsShader: {fileID: 4800000, guid: d4ffee9bcfa1ea743a6428c9ac30e12f, type: 3}
+  - normalsCapturingCamera: {instanceID: 0}
+  executionOrder: 100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
